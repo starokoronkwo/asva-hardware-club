@@ -15,11 +15,14 @@ Components:
 
 <img width="959" height="538" alt="Screenshot 2026-10-17 125147" src="https://github.com/user-attachments/assets/092cde15-2651-47a7-8a95-f9cedfab7345" />
 
-In the case of the circuit, we control the direction of the DC motor by switching "ON" or "OFF" a pair of diagonally opposite switches ( read the line again, dw I won't watch🙃).
+<br>In the case of the circuit, we control the direction of the DC motor by switching "ON" or "OFF" a pair of diagonally opposite switches ( read the line again, dw I won't watch🙃).
 <br>
 S1 and S4 open, S2 and S3 closed => the dc motor rotates in one direction <br>
-S1 and S4 closed, S2 and S3 open => the dc motor rotates in the other direction
+S1 and S4 closed, S2 and S3 open => the dc motor rotates in the other direction<br>
 
-<br>
-<br>
-https://github.com/user-attachments/assets/a14971a7-3ad4-4e54-b854-5661901f6a8c
+
+
+
+https://github.com/user-attachments/assets/118a3d84-bb5b-4f2e-8f75-4c7f44bbd81d
+
+
