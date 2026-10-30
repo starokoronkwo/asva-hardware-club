@@ -10,13 +10,11 @@ A six-servo robotic arm circuit designed and simulated in Proteus, controlled by
 
 ### Circuit schematic
 
-![Circuit schematic in Proteus]
+<img width="439" height="352" alt="Image" src="https://github.com/user-attachments/assets/7697bb9f-26eb-440c-80fd-c1208f8541e0" />
 
 ### Simulation video
 
-[Watch the simulation demo]
 
-> If the video does not play on GitHub, click the link above and use the download button.
 
 
 ---
