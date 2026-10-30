@@ -15,7 +15,7 @@ A six-servo robotic arm circuit designed and simulated in Proteus, controlled by
 ### Simulation video
 
 
-
+https://github.com/user-attachments/assets/fb4f217f-a753-4518-9310-a27ae0ffb20c
 
 ---
 
